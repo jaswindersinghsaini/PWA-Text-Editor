@@ -31,5 +31,5 @@
   ## Questions
   * Github: https://github.com/jaswindersinghsaini
   
-  * heroku: 
+  * heroku: https://pwa-text-editorapp-f44483945246.herokuapp.com/
   
